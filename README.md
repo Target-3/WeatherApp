@@ -1,5 +1,5 @@
 # WeatherApp
-https://weather-at-your-place.netlify.app/
+https://weather-at-your-place.netlify.app
 <p>
   This is the simple website to know the weather at your location. I have used <a href="http://www.OpenWeatherMap.org" target="_blank">OpenWeatherMap</a> API for data. When a user clicks on the temperature value, it toggles between Celsius to Fahrenheit. This website is hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
